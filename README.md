@@ -26,10 +26,10 @@ The (tempatative) list of topics include:
 
 By the end of the course, you will have a solid understanding of:
 
-- The rational behind the usage of computers and computational methodologies within Geography
+- The rational behind the usage of computers and computational methodologies in Geography
 - The way computers "think" and "work"
 - How computers programs are structured and how to execute them
-- The fundamental concepts of programming (in Python, but extensible in general terms to any other programming languare) such as the concept of `variable`, `iteration`, `data structure`, `list`, `object`, `loop`, `function` etc etc.. 
+- The fundamental concepts of programming (in Python, but extensible in general terms to any other programming language) such as the concept of `variable`, `iteration`, `data structure`, `list`, `object`, `loop`, `function` etc etc.. 
 - How your newly acquired coding skills can extend traditional GIS methodologies and be applied to solve to geographical problems
 
 ### Set-up

@@ -32,17 +32,26 @@ By the end of the course, you will have a solid understanding of:
 - The fundamental concepts of programming (in Python, but extensible in general terms to any other programming languare) such as the concept of `variable`, `iteration`, `data structure`, `list`, `object`, `loop`, `function` etc etc.. 
 - How your newly acquired coding skills can extend traditional GIS methodologies and be applied to solve to geographical problems
 
-But most of all... have fun!!!
-
 ### Set-up
 
-The Jupyter Notebook format will allow you to see both the instructions, the code, and its outcome on this website (see below).
+The Jupyter Notebook format will allow you to see both the instructions, the code, and its outcome on this website, e.g.:
+![](./img/jupyter-example.png)
 
 
-However, wouldn't it be much more fun and fruitful if you could actually *run* (i.e. execute) that code on you own machine? 
+However, wouldn't it be much more fun and fruitful if you could actually **run** (i.e. execute) that code on you own machine? 
+
 To do so, you will need to:
--  Download each lesson () there are various ways
+-  Download the notebooks
+	- METHOD A: download the whole repository (click the green button on the top-right corner that says "clone or download") and decompress the `.zip` file.
+	- METHOD B: if you want to have just the single notebook and not the whole repository then click on the notebook name, this will bring you to the rendered notebook. Click on 'raw', and then right-click on the web-page and 'save-as' wherever you want that file on your local filesystem
+-  Install Jupyter. There are various ways but the easiest one is via Anaconda (that's basically a collection of the python programming language and of it most used libraries, already bundled up for you convenience.) Follow the instructions [here](http://jupyter.readthedocs.io/en/latest/install.html#id3).
+- Run the notebook! From Jupyter's [web-page](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html):
+	
+	> (*Windows*): The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows): `jupyter notebook`
+	
+	> (*Mac OSX*): Click on spotlight, type 'terminal' to open a terminal window. Enter the startup folder by typing `cd /some_folder_name`. Type jupyter notebook to launch the Jupyter Notebook App (it will appear in a new browser window or tab).
 
+For a quick-primer on how to install and interact with a Jupyter Notebook follow this tutorial from [OpenTechSchool](http://opentechschool.github.io/python-data-intro/core/notebook.html)
 
 ### References:
 The material contained in this repository is heavily inspired by the [great work](http://darribas.org/gds15/index.html) of [Dani Aribas-Bel](https://twitter.com/darribas):

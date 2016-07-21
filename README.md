@@ -3,7 +3,7 @@
 
 ---
 
-![](img/code-camp.gif)
+![](./img/code-camp.gif)
 
 
 ### List of Contents

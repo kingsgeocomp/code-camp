@@ -32,7 +32,7 @@ By the end of the course, you will have a solid understanding of:
 - The fundamental concepts of programming (in Python, but extensible in general terms to any other programming language) such as the concept of `variable`, `iteration`, `data structure`, `list`, `object`, `loop`, `function` etc etc.. 
 - How your newly acquired coding skills can extend traditional GIS methodologies and be applied to solve to geographical problems
 
-### Set-up
+<!-- ### Set-up
 
 The Jupyter Notebook format will allow you to see both the instructions, the code, and its outcome on this website, e.g.:
 ![](./img/jupyter-example.png)
@@ -52,6 +52,7 @@ To do so, you will need to:
 	> (*Mac OSX*): Click on spotlight, type 'terminal' to open a terminal window. Enter the startup folder by typing `cd /some_folder_name`. Type jupyter notebook to launch the Jupyter Notebook App (it will appear in a new browser window or tab).
 
 For a quick-primer on how to install and interact with a Jupyter Notebook follow this tutorial from [OpenTechSchool](http://opentechschool.github.io/python-data-intro/core/notebook.html)
+-->
 
 ### References:
 The material contained in this repository is heavily inspired by the [great work](http://darribas.org/gds15/index.html) of [Dani Aribas-Bel](https://twitter.com/darribas):

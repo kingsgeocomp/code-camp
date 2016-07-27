@@ -8,7 +8,7 @@
 
 ### List of Contents
 
-Welcome! This the repository for the interactive Jupyter notebooks that will teach you the basics of how to code in Python for 
+Welcome! This is the repository for the interactive Jupyter notebooks that will teach you the basics of how to code in Python for 
 Geographic Data Analysis.
 
 The (tempatative) list of topics include:

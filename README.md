@@ -12,9 +12,9 @@ Welcome! This is the repository for the interactive Jupyter notebooks that will 
 Geographic Data Analysis.
 
 The (tempatative) list of topics include:
-- [Notebook-1: Thinking like a computer](https://github.com/kingsgeocomp/code-camp/blob/master/notebook-1.ipynb)
-- [Notebook-2: The Basics](./notebook-2.ipynb) 
-- [Notebook-3: Dealing with Errors & Debugging](#)
+- [Notebook-1: Thinking like a computer](./notebook-1.ipynb)
+- [Notebook-2: The Basics](./notebook-2.ipynb)
+- [Notebook-3: Dealing with Errors & Debugging](./notebook-3.ipynb)
 - [Notebook-4: Truth & Conditions](#)
 - [Notebook-5: Lists and Dictionaries](#)
 - [Notebook-6: Loops & Iteration](#)

@@ -12,14 +12,16 @@ Welcome! This is the repository for the interactive Jupyter notebooks that will 
 Geographic Data Analysis.
 
 The (tempatative) list of topics include:
-- [Notebook-1: Thinking like a computer](./notebook-1.ipynb)
-- [Notebook-2: The Basics](./notebook-2.ipynb)
-- [Notebook-3: Dealing with Errors & Debugging](./notebook-3.ipynb)
-- [Notebook-4: Truth & Conditions](#)
-- [Notebook-5: Lists and Dictionaries](#)
-- [Notebook-6: Loops & Iteration](#)
-- [Notebook-7: Data Types advanced](#)
-- [Notebook-8: An Intro to Functions](#)
+- [Notebook-1: Introduction](./notebook-011.ipynb)
+- [Notebook-2: Thinking like a computer](./notebook-02.ipynb)
+- [Notebook-3: The Basics](./notebook-03.ipynb)
+- [Notebook-4: Dealing with Errors & Debugging](./notebook-04.ipynb)
+- [Notebook-5: Truth & Conditions](./notebook-05.ipynb)
+- [Notebook-6: Lists and Dictionaries](./notebook-06.ipynb)
+- [Notebook-7: Loops & Iteration](./notebook-07.ipynb)
+- [Notebook-8: Data Types advanced](./notebook-08.ipynb)
+- [Notebook-9: An Intro to Functions](./notebook-09.ipynb)
+- [Notebook-10: Wrap-Up](./notebook-10.ipynb)
 
 
 ### Learning Outcomes

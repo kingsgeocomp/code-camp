@@ -11,7 +11,7 @@
 Welcome! This is the repository for the interactive Jupyter notebooks that will teach you the basics of how to code in Python for
 Geographic Data Analysis.
 
-The (tempatative) list of topics include:
+The list of topics include:
 - [Notebook-1: Introduction](./notebook-011.ipynb)
 - [Notebook-2: Thinking like a computer](./notebook-02.ipynb)
 - [Notebook-3: The Basics](./notebook-03.ipynb)

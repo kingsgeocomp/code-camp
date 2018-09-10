@@ -1,5 +1,5 @@
-# Code Camp 2016
-*An on-line coding primer for the GSA pathway class of 2016/17 at King's College London*
+# Code Camp
+*An on-line coding primer for the GSA theme in King's College London's Department of Geography*
 
 ---
 

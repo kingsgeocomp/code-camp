@@ -1,4 +1,5 @@
-# Code Camp
+# Code Camp [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3474043.svg)](https://doi.org/10.5281/zenodo.3474043)
+
 *An on-line coding primer for the GSA theme in King's College London's Department of Geography*
 
 ---

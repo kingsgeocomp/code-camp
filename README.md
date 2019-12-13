@@ -1,28 +1,34 @@
 # Code Camp [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3474043.svg)](https://doi.org/10.5281/zenodo.3474043)
 
-*An on-line coding primer for the GSA theme in King's College London's Department of Geography*
+* An on-line coding primer for Python produced by King's College London's Department of Geography *
 
 ---
 
-![](./img/code-camp.gif)
+![Code Camp](./img/code-camp.gif)
 
 
 ### List of Contents
 
-Welcome! This is the repository for the interactive Jupyter notebooks that will teach you the basics of how to code in Python for
-Geographic Data Analysis.
+Welcome! This repository uses interactive Jupyter notebooks to teach you the basics of how to code in Python. Our focus is on simple examples that (we hope) speak to students who are _not_ Computer Scientists by training. Perhaps you dabbled a bit in High School? Perhaps you've never done any programming ever? Whatever, we're here to help!
 
 The list of topics include:
-- [Notebook-1: Introduction](./notebook-011.ipynb)
-- [Notebook-2: Thinking like a computer](./notebook-02.ipynb)
-- [Notebook-3: The Basics (Variables, Operators and Precedence)](./notebook-03.ipynb)
-- [Notebook-4: Dealing with Errors & Debugging](./notebook-04.ipynb)
-- [Notebook-5: Truth & Conditions (Comparisons, Conditions and George Boole)](./notebook-05.ipynb)
-- [Notebook-6: Lists](./notebook-06.ipynb)
-- [Notebook-7: Dictionaries](./notebook-07.ipynb)
-- [Notebook-8: Loops and Iteration](./notebook-08.ipynb)
-- [Notebook-9: Functions (Automate All the Things)](./notebook-09.ipynb)
-- [Notebook-10: Wrapping Up (A Brief Note on Style)](./notebook-10.ipynb)
+- [Notebook-1: Introduction](./notebook-01-getting-started.ipynb)
+- [Notebook-2: Thinking like a computer](./notebook-02-thinking-like-a-computer.ipynb)
+- [Notebook-3: The Basics (Variables, Operators and Precedence)](./notebook-03-basic-concepts.ipynb)
+- [Notebook-4: Dealing with Errors & Debugging](./notebook-04-errors-and-debugging.ipynb)
+- [Notebook-5: Truth & Conditions (Comparisons, Conditions and George Boole)](./notebook-05-truth-and-conditions.ipynb)
+- [Notebook-6: Recap 1](./notebook-06-recap.ipynb)
+- [Notebook-7: Lists](./notebook-07-lists.ipynb)
+- [Notebook-8: Dictionaries](./notebook-08-dictionaries.ipynb)
+- [Notebook-9: Loops and Iteration](./notebook-09-iteration.ipynb)
+- [Notebook-10: Recap 2](./notebook-10-recap.ipynb)
+- [Notebook-11: Functions (Automate All the Things)](./notebook-11-functions.ipynb)
+- [Notebook-12: Packages (Bundles of Functions)](./notebook-12-packages.ipynb)
+- [Notebook-13: Classes and Objects](./notebook-13-classes.ipynb)
+- [Notebook-14: Data Structures (Why Obvious Isn't Always Right)](./notebook-14-data-structures.ipynb)
+- [Notebook-15: A Brief Note on Style](./notebook-15-style.ipynb)
+- [Notebook-16: Recap 3](./notebook-16-recap.ipynb)
+- [Notebook-17: The Terminal](./notebook-17-terminal.ipynb)
 
 ### Setting Up
 
@@ -30,13 +36,13 @@ There are several ways to run these notebooks explained [on our blog](https://ki
 
 ### Learning Outcomes
 
-By the end of the course, you will have a solid understanding of:
+By the end of the course, you will have a basic understanding of:
 
-- The rational behind the usage of computers and computational methodologies in Geography
+- The rationale behind the usage of computers and computational methodologies
 - The way computers "think" and "work"
 - How computers programs are structured and how to execute them
-- The fundamental concepts of programming (in Python, but extensible in general terms to any other programming language) such as the concept of `variable`, `iteration`, `data structure`, `list`, `object`, `loop`, `function` etc etc..
-- How your newly acquired coding skills can extend traditional GIS methodologies and be applied to solve to geographical problems
+- The fundamental concepts of programming (in Python) such as the concept of `variable`, `iteration`, `data structure`, `list`, `object`, `loop`, `function` etc.,  etc.
+- How your newly acquired coding skills can help you be _effectively lazy_.
 
 ### References:
 The material contained in this repository is heavily inspired by the [great work](http://darribas.org/gds15/index.html) of [Dani Aribas-Bel](https://twitter.com/darribas):

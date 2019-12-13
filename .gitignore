@@ -2,3 +2,4 @@
 .ipython
 .jupyter
 .local
+*.geojson

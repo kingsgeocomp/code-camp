@@ -6,3 +6,4 @@ jupyter labextension install @jupyterlab/geojson-extension
 jupyter labextension enable jupyterlab-manager
 jupyter labextension enable jupyterlab_rmotr_solutions
 jupyter labextension enable geojson-extension
+jupyter serverextension enable jupyterlab_rmotr_solutions

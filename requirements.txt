@@ -1,0 +1,4 @@
+ipywidgets
+jupyter_contrib_nbextensions
+jupyterlab-solutions
+

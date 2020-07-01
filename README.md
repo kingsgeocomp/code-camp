@@ -32,7 +32,7 @@ The list of topics include:
 
 ### Setting Up
 
-There are several ways to run these notebooks explained, but the most straightforward way to get started is [using Binder](https://mybinder.org/v2/gh/kingsgeocomp/code-camp/master).
+There are several ways to run these notebooks, but the most straightforward way to get started is [using Binder](https://mybinder.org/v2/gh/kingsgeocomp/code-camp/master).
 
 ### Learning Outcomes
 

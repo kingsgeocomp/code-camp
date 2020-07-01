@@ -1,9 +1,6 @@
-jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install @rmotr/jupyterlab-solutions
 jupyter labextension install @jupyterlab/geojson-extension
+jupyter labextension install @rmotr/jupyterlab-solutions
 jupyter labextension enable jupyterlab-manager
-jupyter labextension enable jupyterlab_rmotr_solutions
 jupyter labextension enable geojson-extension
 jupyter serverextension enable jupyterlab_rmotr_solutions

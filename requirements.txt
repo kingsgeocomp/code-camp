@@ -1,3 +1,2 @@
 ipywidgets
 jupyter_contrib_nbextensions
-jupyterlab==1.2.1

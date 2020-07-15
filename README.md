@@ -56,4 +56,4 @@ The following individuals have contributed to these teaching materials:
 - [Zahratu Shabrina](https://github.com/zarashabrina)
 
 #### License
-The content and structure of this teaching project itself is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license, and the contributing source code is licensed under The MIT License.
+The content and structure of this teaching project itself is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/), and the contributing source code is licensed under [The MIT License](https://opensource.org/licenses/mit-license.php).

@@ -26,7 +26,7 @@ The list of topics include:
 - [Notebook-12: Packages (Bundles of Functions)](./notebook-12-packages.ipynb)
 - [Notebook-13: Classes and Objects](./notebook-13-classes.ipynb)
 - [Notebook-14: The Terminal (Working Without Buttons)](./notebook-14-terminal.ipynb)
-- [Notebook-15: Wrapping Up (A Note on Style](./notebook-15-style-and-summary.ipynb)
+- [Notebook-15: Wrapping Up (A Matter of Style)](./notebook-15-style-and-summary.ipynb)
 
 ### Setting Up
 

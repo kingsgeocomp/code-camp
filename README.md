@@ -25,10 +25,8 @@ The list of topics include:
 - [Notebook-11: Functions (Automate All the Things)](./notebook-11-functions.ipynb)
 - [Notebook-12: Packages (Bundles of Functions)](./notebook-12-packages.ipynb)
 - [Notebook-13: Classes and Objects](./notebook-13-classes.ipynb)
-- [Notebook-14: Data Structures (Why Obvious Isn't Always Right)](./notebook-14-data-structures.ipynb)
-- [Notebook-15: A Brief Note on Style](./notebook-15-style.ipynb)
-- [Notebook-16: Recap 3](./notebook-16-recap.ipynb)
-- [Notebook-17: The Terminal](./notebook-17-terminal.ipynb)
+- [Notebook-14: The Terminal (Working Without Buttons)](./notebook-14-terminal.ipynb)
+- [Notebook-15: Wrapping Up (A Note on Style](./notebook-15-style-and-summary.ipynb)
 
 ### Setting Up
 

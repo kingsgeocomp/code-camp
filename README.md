@@ -48,7 +48,12 @@ By the end of the course, you will have a basic understanding of:
 The material contained in this repository is heavily inspired by the [great work](http://darribas.org/gds15/index.html) of [Dani Aribas-Bel](https://twitter.com/darribas):
 `Arribas-Bel, D. (2016). Geographic Data Science’15. http://doi.org/{10.5281/zenodo.46313}`
 
-The following individuals have contributed to these teaching materials: James Millington (https://github.com/jamesdamillington), Jon Reades (https://github.com/jreades), Michele Ferretti (https://github.com/miccferr), Zahratu Shabrina (https://github.com/zarashabrina)
-License
+#### Contributors
+The following individuals have contributed to these teaching materials: 
+- [James Millington](https://github.com/jamesdamillington)
+- [Jon Reades](https://github.com/jreades)
+- [Michele Ferretti](https://github.com/miccferr)
+- [Zahratu Shabrina](https://github.com/zarashabrina)
 
+#### License
 The content and structure of this teaching project itself is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license, and the contributing source code is licensed under The MIT License.

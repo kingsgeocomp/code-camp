@@ -1,6 +1,6 @@
 # Code Camp [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3474043.svg)](https://doi.org/10.5281/zenodo.3474043)
 
-* An on-line coding primer for Python produced by King's College London's Department of Geography *
+**An on-line coding primer for Python produced by King's College London's Department of Geography**
 
 ---
 
@@ -30,7 +30,7 @@ The list of topics include:
 
 ### Setting Up
 
-There are several ways to run these notebooks, but the most straightforward way to get started is [using Binder](https://mybinder.org/v2/gh/kingsgeocomp/code-camp/master).
+There are several ways to run these notebooks, but the most straightforward way to get started is [using Binder](https://mybinder.org/v2/gh/kingsgeocomp/code-camp-env/notebook-v1.0?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fkingsgeocomp%252Fcode-camp%26urlpath%3Dtree%252Fcode-camp%252F%26branch%3Dmaster).
 
 ### Learning Outcomes
 

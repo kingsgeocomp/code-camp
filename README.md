@@ -30,7 +30,7 @@ The list of topics include:
 
 ### Setting Up
 
-There are several ways to run these notebooks, but the most straightforward way to get started is [using Binder](https://mybinder.org/v2/gh/kingsgeocomp/code-camp-env/notebook-v1.0?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fkingsgeocomp%252Fcode-camp%26urlpath%3Dtree%252Fcode-camp%252F%26branch%3Dmaster).
+There are several ways to run these notebooks, but the most straightforward way to get started is [using Binder](https://mybinder.org/v2/gh/kingsgeocomp/code-camp-env/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fkingsgeocomp%252Fcode-camp%26urlpath%3Dtree%252Fcode-camp%252F%26branch%3Dmaster).
 
 ### Learning Outcomes
 
